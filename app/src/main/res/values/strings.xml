@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Aptitude Quiz</string>
+
+    <string name="subject">Select the subject to take the quiz</string>
+    <string name="math">Math</string>
+    <string name="science">Science</string>
+    <string name="startTest">Start Test</string>
+
+    <string name="app_name1">Math Quiz</string>
+    <string name="quesOne">1. The perimeter of a circle is also known as what?</string>
+    <string name="Ans1A">The Circumference</string>
+    <string name="Ans1B">The Diameter</string>
+    <string name="quesTwo">2. In statistics, the middle value of an ordered set of values is called what?</string>
+    <string name="Ans2A">The Medium</string>
+    <string name="Ans2B">The Median</string>
+    <string name="quesThree">3. In an isosceles triangle all sides are unequal. True or false?</string>
+    <string name="Ans3A">True</string>
+    <string name="Ans3B">False</string>
+    <string name="quesFour">4. What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ?</string>
+    <string name="Ans4A">44</string>
+    <string name="Ans4B">55</string>
+    <string name="quesFive">5. True or false? A convex shape curves outwards.</string>
+    <string name="Ans5A">True</string>
+    <string name="Ans5B">False</string>
+    <string name="submit">Check Answers</string>
+    <string name="back">Back</string>
+
+    <string name="app_name2">Science Quiz</string>
+    <string name="sciQuesOne">1. Pure water has a pH level of a around?</string>
+    <string name="sciAns1A">7</string>
+    <string name="sciAns1B">8</string>
+    <string name="sciQuesTwo">2. Is the compound ‘HCl’ an acid or base?</string>
+    <string name="sciAns2A">A base</string>
+    <string name="sciAns2B">An acid</string>
+    <string name="sciQuesThree">3. The fear of what animal is known as ‘arachnophobia’?</string>
+    <string name="sciAns3A">Bugs</string>
+    <string name="sciAns3B">Spiders</string>
+    <string name="sciQuesFour">4. What is the 7th element on the periodic table of elements?</string>
+    <string name="sciAns4A">Nitrogen</string>
+    <string name="sciAns4B">Helium</string>
+    <string name="sciQuesFive">5. What is the biggest planet in our solar system?</string>
+    <string name="sciAns5A">Saturn</string>
+    <string name="sciAns5B">Jupiter</string>
+    <string name="submit1">Check Answers</string>
+    <string name="back1">Back</string>
+
+</resources>
