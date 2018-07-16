@@ -1,5 +1,5 @@
 # FinalQuizApp
-A dual subject quiz app made in Java for the Udacity Grow with Google Scholarship.
+A dual subject quiz app.
 
 Designed and implemented an Android Quiz App in Java and XML using Android Studio. This app is a part of Udacity/Google "Grow with Google Challenge Scholarship program project work.
 
